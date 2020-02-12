@@ -4,9 +4,8 @@ public class AddTwoNumbers {
       int num1;
       int num1 = 5, num2 = 15, sum;
       sum = num1 + num2;
-      for(int i;i<10;i++){
-      
-      }
+     
+     
       System.out.println("Sum of these numbers: "+sum);
    }
 }
